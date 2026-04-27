@@ -16,6 +16,7 @@
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 20, 2026 |
 | Song Creation Date | April 26, 2026 |
+| Official Release Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-el-ehsas/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -31,6 +32,13 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Website](https://abusayed.com.bd/projects/enta-el-ehsas/)
+- [YouTube](https://www.youtube.com/watch?v=V19N0nRINV0)
 
 ---
 
