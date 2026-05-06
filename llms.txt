@@ -19,6 +19,7 @@
 | Official Release Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-el-ehsas/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Enta El Ehsas](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=V19N0nRINV0?https://imabusayed.github.io/enta-el-ehsas/) |
 | Artist | Abu Sayed |
 
 ---
